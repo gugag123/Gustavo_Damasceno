@@ -1,10 +1,11 @@
 # Gustavo_Damasceno
-
 # Olá! 👋
 
-Tenho 17 anos e atualmente estou cursando Desenvolvimento de Sistemas pelo SENAI.
+Meu nome é Gustavo Damasceno
 
-💻 Estou em constante aprendizado e prática nas seguintes áreas:
+🎓 Tenho 17 anos e estou cursando Desenvolvimento de Sistemas pelo SENAI.
+
+💻 Atualmente estou aprendendo e praticando:
 - Java e Python
 - Lógica de Programação
 - Estruturas condicionais (if, else, ternária)
@@ -21,6 +22,9 @@ Tenho 17 anos e atualmente estou cursando Desenvolvimento de Sistemas pelo SENAI
 
 🚀 Meu objetivo é me tornar um Desenvolvedor de Software profissional, sempre buscando aprender coisas novas e evoluir na área de tecnologia.
 
-📚 Atualmente focado em aprimorar minhas habilidades e construir projetos práticos.
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-damasceno-1968703b4/
 
 ⭐ Sempre aberto a aprender, colaborar e crescer!
+
